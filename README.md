@@ -4,7 +4,6 @@
 
 
 
-
 LearnToCount
 ============
 
@@ -17,6 +16,8 @@ SO  HOW  CAN I ADD  NEXT FILE  TO THIS REP ????
 here seems not to be any new file option????  
 
 Really do not like to read help files....
+
+http://gallery.menalto.com/node/88766    Here might be some help in that area.... lets see...
 
 
 
