@@ -1,10 +1,26 @@
+
+
+
+
+
+
+
 LearnToCount
 ============
 
 Learn children to count and (their fathers) to program.  DART.
 
 
-Seems, that i can n ot add more files here, so i must put code in this file   :(
+Seems, that i can n ot add more files here, so i must put code in this file
+SO  HOW  CAN I ADD  NEXT FILE  TO THIS REP ????
+
+here seems not to be any new file option????  
+
+Really do not like to read help files....
+
+
+
+:(
 
 
   int Summa   = 0;  
